@@ -1,4 +1,5 @@
-BaseUrl= "https://syui.cf/hugo-theme-air/"
+BaseUrl= "https://takagotch.github.io/page453/"
+#BaseUrl= "https://syui.cf/hugo-theme-air/"
 LanguageCode= "en-US"
 Title= "Hugo Theme Air"
 paginate = 5
