@@ -2,6 +2,13 @@
 ---
 https://takagotch.github.io/page453/
 
+```
+mv layouts docs
+docs/
+layouts
+
+README.md
+```
 
 ```.github/workflows/gh-pages.yml
 name: github pages
